@@ -1,4 +1,4 @@
 # My Setup
 
-Just my simple minimalistic config file for vscode and hyper terminal. <br>
+Just my simple minimalistic config file for vscode, hyper terminal and zshrc for kali <br>
 Feel free to fork and clone this.
