@@ -3,7 +3,7 @@
   "editor.minimap.enabled": false,
   "update.mode": "manual",
   "apc.imports": [
-    "file:///c:/Users/USERNAME/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    "file:///c:/Users/Silun/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
   ],
   "workbench.colorTheme": "Aura Soft Dark (Soft Text)",
   "explorer.compactFolders": false,
@@ -13,6 +13,7 @@
   "explorer.autoReveal": true,
   "explorer.sortOrder": "type",
   "window.zoomLevel": -1,
+
   "material-icon-theme.hidesExplorerArrows": true,
   "editor.scrollbar.verticalScrollbarSize": 20,
   "editor.scrollbar.horizontalScrollbarSize": 20,
@@ -28,34 +29,38 @@
   "editor.formatOnSave": true,
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
+
   "editor.renderWhitespace": "none",
   "editor.renderControlCharacters": false,
-  "workbench.colorCustomizations": {
-    "[Aura Dark]": {
-      "editor.background": "#21202d",
-      "terminal.background": "#21202d",
-      "activityBar.background": "#21202d",
-      "statusBar.background": "#21202d",
-      "editorGroupHeader.tabsBackground": "#21202d",
-      "tab.inactiveBackground": "#21202d"
+
+"workbench.colorCustomizations": {
+    "[Aura Soft Dark (Soft Text)]": {
+        "editor.background": "#000000",
+        "terminal.background": "#000000",
+        "activityBar.background": "#000000",
+        "statusBar.background": "#000000",
+        "statusBar.noFolderBackground": "#000000",
+        "sideBar.background": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "tab.inactiveBackground": "#1c1c1c",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.inactiveBackground": "#1c1c1c"
     },
-    "vscode_custom_css.imports": [],
-    "editor.guides.indentation": true,
-    "animations.Install-Method": "Apc Customize UI++",
-    "animations.Command-Palette": "Slide",
-    "animations.Scrolling": "Fade",
-    "editor.defaultFormatter": "GitHub.copilot",
-    "material-icon-theme.saturation": 1,
-    "material-icon-theme.folders.color": "#ffc0cb"
-  },
+    "editor.foreground": "#FFFFFF",
+    "editor.selectionBackground": "#333333",
+    "editorCursor.foreground": "#FFFFFF",
+    "editor.lineHighlightBackground": "#222222"
+},
+
   "explorer.fontFamily": "Geist Mono",
   "explorer.fontSize": 10,
   "explorer.decorations.colors": true,
   "explorer.decorations.badges": true,
   "explorer.decorations.size": "small",
+
   "material-icon-theme.folders.color": "#90a4ae",
   "vscode_custom_css.imports": [
-    "file:///c:/Users/USERNAME/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    "file:///c:/Users/Silun/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
   ],
   "editor.largeFileOptimizations": false,
   "php.validate.executablePath": "true",
@@ -78,8 +83,8 @@
   "python.createEnvironment.trigger": "off",
   "solidity.telemetry": true,
   "workbench.sideBar.location": "right",
-  "zig.path": "c:\\Users\\USERNAME\\AppData\\Roaming\\Code\\User\\globalStorage\\ziglang.vscode-zig\\zig_install\\zig.exe",
-  "zig.zls.path": "c:\\Users\\USERNAME\\AppData\\Roaming\\Code\\User\\globalStorage\\ziglang.vscode-zig\\zls_install\\zls.exe",
+  "zig.path": "c:\\Users\\Silun\\AppData\\Roaming\\Code\\User\\globalStorage\\ziglang.vscode-zig\\zig_install\\zig.exe",
+  "zig.zls.path": "c:\\Users\\Silun\\AppData\\Roaming\\Code\\User\\globalStorage\\ziglang.vscode-zig\\zls_install\\zls.exe",
   "zig.initialSetupDone": true,
   "explorer.fileNesting.patterns": {
     "*.ts": "${capture}.js",
